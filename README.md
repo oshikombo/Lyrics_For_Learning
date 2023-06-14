@@ -5,7 +5,7 @@
 
 ## Table of content
 
-- [Inspiration](#inspiration)
+- [Inspiration](#inspiration.)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
 - [Features](#features)
